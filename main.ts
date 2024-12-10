@@ -1,3 +1,3 @@
 Deno.serve(() => {
-    return new Response("Sample2")
+    return new Response("Sample2!")
 })
